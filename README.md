@@ -1,5 +1,5 @@
 * GardenTracker
 
-Helps modeland manage garden tasks.
+Helps model and manage garden tasks.
 
 
